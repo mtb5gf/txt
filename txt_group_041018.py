@@ -1,8 +1,6 @@
-"""You have experienced a devestating personal trauma and want to eat indulgently to accompany a night in bed with a sad French New Wave 
-Film and fuel a long distance, contemplative run in the morning. Your problem is the following: you want the most bang for your caloric 
-buck and refuse to go to Wegmans and walk through the produce section - that once vibrant cosmos full of glimmers of vegetal, nourishing meals
-together - on your way to the dairy. You are, in many ways, stuck alone with what you've got. Using Python, find out how which combination of 
-cookies and brownies will best utilize your panty and slow your broken heart. Then, find out how many miles you will need to run at an 8:24
+""" You have a sweet tooth, but you are also a runner. Your problem is the following: you want the most bang for your caloric 
+buck and refuse to go to Wegmans and walk through the produce section on your way to the dairy. Using Python, find out how which combination of 
+cookies and brownies will best utilize your pantry.Then, find out how many miles you will need to run at an 8:24
 pace to undo your decadence"""
 
 ###Recipes and stock###
